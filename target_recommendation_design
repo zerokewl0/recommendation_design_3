@@ -67,6 +67,13 @@
                                 </tbody>
                             </table>
 
+                            <!-- Fester Abstand vor dem Button -->
+                            <tr>
+                                <td height="20" style="font-family:aldi-sued-office, Helvetica, Arial, sans-serif; text-align:center; color:#ffffff;">
+                                    <!-- Empty row for spacing -->
+                                </td>
+                            </tr>
+
                             <table width="180px" border="0" cellspacing="0" cellpadding="0">
                                 <tbody>
                                     <tr>
